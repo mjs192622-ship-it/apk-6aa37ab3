@@ -1,0 +1,40 @@
+{
+    "project_info": {
+        "project_number": "13078345979",
+        "firebase_url": "https://dangerzoneofic-default-rtdb.firebaseio.com",
+        "project_id": "dangerzoneofic",
+        "storage_bucket": "dangerzoneofic.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:13078345979:android:fffe41db27d9269853985e",
+                "android_client_info": {
+                    "package_name": "com.dangerzone.bd"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "13078345979-1tosun0lqkkj27fo7m5m4hrhftokdd8u.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyBcOA8ycKr8FW7YEwcIoEwnpGFY4sZEHnk"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "13078345979-1tosun0lqkkj27fo7m5m4hrhftokdd8u.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
